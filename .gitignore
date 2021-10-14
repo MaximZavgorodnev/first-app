@@ -1,0 +1,11 @@
+*.class
+/build/
+build.gradle.kts
+gradle/
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle.kts
+test/
+*.gradle
+*.idea
